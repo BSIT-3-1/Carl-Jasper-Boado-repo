@@ -1,2 +1,5 @@
 # Carl-Jasper-Boado-repo
-This this readme file
+Fullname: Carl Jasper T. Boado
+Block: BSIT 3-1
+Email: carljasperboado@gmail.com
+Github: @CJasperB
